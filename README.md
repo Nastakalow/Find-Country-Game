@@ -1,6 +1,6 @@
 # Find-Word-Game
 
-Basic FindWorldWord game.
+Basic FindWorld game.
 
 
 [Demo link](https://nastakalow.github.io/Find-World_Game/)
