@@ -1,7 +1,7 @@
 # Find-Word-Game
 
-Basic FindWorld game.
+Basic FindCountry game.
 
 
-[Demo link](https://nastakalow.github.io/Find-World-Game/)
+[Demo link](https://nastakalow.github.io/Find-Country-Game/)
 
