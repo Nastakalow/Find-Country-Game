@@ -1,4 +1,4 @@
-class FindWorldGame {
+class FindCountryGame {
   #words = [
     "Azerbaijan",
     "France",
@@ -129,4 +129,4 @@ class FindWorldGame {
   }
 }
 
-const game = new FindWorldGame();
+const game = new FindCountryGame();
