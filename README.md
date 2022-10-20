@@ -1,4 +1,4 @@
-# Find-Word-Game
+# Find-Country-Game
 
 Basic FindCountry game.
 
